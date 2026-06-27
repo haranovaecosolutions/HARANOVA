@@ -23,11 +23,11 @@ function Contact() {
               </p>
               <p className="flex gap-4">
                 <Phone className="text-[#d7b56d]" />
-                +91-XXXXXXXXXX
+                +91-9033112673
               </p>
               <p className="flex gap-4">
                 <Mail className="text-[#d7b56d]" />
-                sales@harnova.com
+                haranovaecosolutions@gmail.com
               </p>
               <p className="flex gap-4">
                 <Clock className="text-[#d7b56d]" />
