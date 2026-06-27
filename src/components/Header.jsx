@@ -46,12 +46,12 @@ function Header() {
         </nav>
 
         <div className="hidden items-center gap-3 lg:flex">
-          <a
-            href="#catalogue"
+          <Link
+            to="/products"
             className="rounded-full border border-[#1f5f3b]/20 px-5 py-3 text-sm font-semibold text-[#1f5f3b] hover:bg-white"
           >
             Catalogue
-          </a>
+          </Link>
 
           <Link
             to="/bulk-enquiry"
