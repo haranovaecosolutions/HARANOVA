@@ -32,6 +32,7 @@ export default function Footer() {
         <div>
           <h3>Contact</h3>
           <div className="footer-contact">
+            <div className="footer-contact__company-name">🏭 HaraViba Eco Solutions Private Limited</div>
             <a href="https://maps.google.com/?q=A-101+Veer+Bhadra+Complex+Navsari+396445" target="_blank" rel="noreferrer">
               <MapPin size={18} />
               <span>A-101 Veer Bhadra Complex, Navsari - 396445, Gujarat, India</span>

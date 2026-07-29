@@ -155,6 +155,9 @@ export default function HomePage() {
           <Reveal className="home-story__visual">
             <div className="image-stack">
               <img className="image-stack__main" src={asset("assets/world.png")} alt="Global HaraViba product concept" loading="lazy" />
+              <div className="image-orbit">
+                <img className="image-orbit__ball" src={asset("assets/Green Goes Global.svg")} alt="Orbiting Green Goes Global" />
+              </div>
               <div className="image-stack__glass glass-card">
                 <Globe2 size={24} />
                 <strong>Green goes global</strong>

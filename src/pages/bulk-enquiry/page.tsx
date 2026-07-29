@@ -18,7 +18,7 @@ export default function BulkEnquiryPage() {
         eyebrow="Bulk enquiry"
         title="A focused form for faster commercial qualification."
         description="Share enough context to start a useful conversation on product, volume, destination, packing, branding and documentation."
-        image={asset("assets/meal.png")}
+        image={asset("assets/contact.png")}
       />
 
       <section className="shell-section enquiry-page">
