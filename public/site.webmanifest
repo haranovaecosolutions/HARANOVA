@@ -1,0 +1,17 @@
+{
+  "name": "HaraViba",
+  "short_name": "HaraViba",
+  "description": "Sustainable sugarcane bagasse tableware and food-service packaging.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fdfcf8",
+  "theme_color": "#0f3d27",
+  "icons": [
+    {
+      "src": "assets/logo.webp",
+      "sizes": "any",
+      "type": "image/webp",
+      "purpose": "any"
+    }
+  ]
+}

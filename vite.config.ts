@@ -1,0 +1,13 @@
+import { defineConfig } from "vite";
+import react from "@vitejs/plugin-react";
+
+export default defineConfig({
+  plugins: [react()],
+  // Relative base keeps assets working on GitHub Pages project sites.
+  base: "./",
+  build: {
+    target: "es2022",
+    cssCodeSplit: true,
+    sourcemap: false,
+  },
+});
